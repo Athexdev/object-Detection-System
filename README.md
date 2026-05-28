@@ -1,3 +1,4 @@
+
 # SmartSight Detection Framework
 
 ## AI-Powered Real-Time Object Detection & Visual Intelligence System
@@ -30,15 +31,14 @@ SmartSight-Detection-Framework/
 ├── videos/
 ├── requirements.txt
 ├── README.md
-└── object_detection_system.ipynb
+└── detection.ipynb
 
 ### How to Run
 1. Install dependencies from requirements.txt
-2. Open object_detection_system.ipynb in Google Colab
+2. Open detection.ipynb in Google Colab
 3. Run all cells
 4. Upload image/video
 5. View detection results
 
 ### Author
 Debesh Nayak
-"""
